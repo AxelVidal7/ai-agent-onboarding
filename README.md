@@ -45,13 +45,15 @@ Cada carpeta contiene:
 
 ## Roadmap de aprendizaje
 
+
 | Etapa | Tema | Contenido principal |
-|-------|------|-------------------|---------------------|
+| :--- | :--- | :--- |
 | 1 | Python Sólido | OOP, type hints, async/await, manejo de errores, entornos virtuales |
 | 2 | Fundamentos LLM | Modelos de lenguaje, tokens, embeddings, búsqueda vectorial, ChromaDB/Qdrant |
 | 3 | LangChain y RAG | Chains, retrievers, memoria, RAG básico, prompt engineering |
 | 4 | Stack del proyecto | FastAPI, vLLM, Docker, gestión de usuarios, streaming |
 | 5 | Integración avanzada | RAG multi-KB, gestión de conversaciones, hilos, intro a LangGraph |
+
 
 
 
